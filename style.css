@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px;
+}
+
+body {
+  background-image: url("Images/Cave Background.jpg");
+}
+
+.mainHeader {
+    border: 2px grey solid;
+    padding 3px;
+    margin: 5px;
+    text-align: center;
+    width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;   
+}
+
+.question-score {
+    list-style: none;
+    display: inline-block;
+    padding-right: 20px;
+    padding-bottom: 3px;
+}
+
+.mainBox {
+  text-align: center;
+  display: block;
+  border: 2px gray solid;
+  padding: 3px;
+  margin: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+  background-color: white;   
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 2px;
+  width: 400px;
+}

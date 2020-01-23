@@ -43,5 +43,13 @@ img {
   margin-right: auto;
   margin-left: auto;
   padding: 2px;
+  width: 430px;
+}
+
+.correctImage {
   width: 400px;
+}
+
+p {
+  padding-bottom: 3px;
 }
